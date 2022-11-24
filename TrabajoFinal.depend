@@ -1,0 +1,1069 @@
+# depslib dependency file v1.0
+1668359639 source:d:\downloads\trabajofinal\trabajofinal\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arbolesFinal.h"
+
+1668380708 d:\downloads\trabajofinal\trabajofinal\arbolesfinal.h
+	"login.h"
+	"pretendientes.h"
+	"aventura.h"
+
+1668381039 source:d:\downloads\trabajofinal\trabajofinal\arbolesfinal.c
+	<stdio.h>
+	<conio.h>
+	<time.h>
+	<stdlib.h>
+	<windows.h>
+	"arbolesFinal.h"
+
+1668359347 d:\downloads\trabajofinal\trabajofinal\login.h
+	"personaje.h"
+	"historial.h"
+
+1668381433 source:d:\downloads\trabajofinal\trabajofinal\login.c
+	<stdio.h>
+	<conio.h>
+	<time.h>
+	<stdlib.h>
+	<windows.h>
+	"login.h"
+
+1668359117 d:\downloads\trabajofinal\trabajofinal\character.h
+
+1668359052 source:d:\downloads\trabajofinal\trabajofinal\character.c
+	<stdio.h>
+	<conio.h>
+	<time.h>
+	<stdlib.h>
+	<windows.h>
+	"character.h"
+
+1668359073 source:d:\downloads\trabajofinal\trabajofinal\historial.c
+
+1668358662 source:d:\downloads\trabajofinal\trabajofinal\pretendientes.c
+	<stdio.h>
+	<conio.h>
+	<time.h>
+	<stdlib.h>
+	<windows.h>
+
+1668358662 d:\downloads\trabajofinal\trabajofinal\historial.h
+
+1668380707 d:\downloads\trabajofinal\trabajofinal\personaje.h
+
+1668359174 source:d:\downloads\trabajofinal\trabajofinal\personaje.c
+
+1668359204 d:\downloads\trabajofinal\trabajofinal\pretendientes.h
+
+1668381063 d:\downloads\trabajofinal\trabajofinal\aventura.h
+
+1668380705 source:d:\downloads\trabajofinal\trabajofinal\aventura.c
+	<stdio.h>
+	<conio.h>
+	<time.h>
+	<stdlib.h>
+	<windows.h>
+	"aventura.h"
+
+1668544603 source:c:\users\lutaro\desktop\facu\2 cuatrimestre\programacion ii\trabajofinal\trabajofinal\arbolesfinal.c
+	<stdio.h>
+	<conio.h>
+	<time.h>
+	<stdlib.h>
+	<windows.h>
+	"arbolesFinal.h"
+
+1668544603 c:\users\lutaro\desktop\facu\2 cuatrimestre\programacion ii\trabajofinal\trabajofinal\arbolesfinal.h
+	"login.h"
+	"pretendientes.h"
+	"aventura.h"
+	"menu.h"
+
+1668466331 c:\users\lutaro\desktop\facu\2 cuatrimestre\programacion ii\trabajofinal\trabajofinal\login.h
+	"historial.h"
+
+1668546874 c:\users\lutaro\desktop\facu\2 cuatrimestre\programacion ii\trabajofinal\trabajofinal\personaje.h
+
+1668544806 c:\users\lutaro\desktop\facu\2 cuatrimestre\programacion ii\trabajofinal\trabajofinal\historial.h
+	"personaje.h"
+	"trofeo.h"
+
+1668547390 c:\users\lutaro\desktop\facu\2 cuatrimestre\programacion ii\trabajofinal\trabajofinal\pretendientes.h
+
+1668544603 c:\users\lutaro\desktop\facu\2 cuatrimestre\programacion ii\trabajofinal\trabajofinal\aventura.h
+
+1668460176 source:c:\users\lutaro\desktop\facu\2 cuatrimestre\programacion ii\trabajofinal\trabajofinal\aventura.c
+	<stdio.h>
+	<conio.h>
+	<time.h>
+	<stdlib.h>
+	<windows.h>
+	"aventura.h"
+
+1668544820 source:c:\users\lutaro\desktop\facu\2 cuatrimestre\programacion ii\trabajofinal\trabajofinal\historial.c
+	<stdio.h>
+	<conio.h>
+	<time.h>
+	<stdlib.h>
+	<windows.h>
+	"login.h"
+
+1668546806 source:c:\users\lutaro\desktop\facu\2 cuatrimestre\programacion ii\trabajofinal\trabajofinal\main.c
+	<stdio.h>
+	<conio.h>
+	<time.h>
+	<stdlib.h>
+	<windows.h>
+	"arbolesFinal.h"
+
+1668547362 source:c:\users\lutaro\desktop\facu\2 cuatrimestre\programacion ii\trabajofinal\trabajofinal\personaje.c
+	<stdio.h>
+	<conio.h>
+	<time.h>
+	<stdlib.h>
+	<windows.h>
+	"personaje.h"
+
+1668460176 source:c:\users\lutaro\desktop\facu\2 cuatrimestre\programacion ii\trabajofinal\trabajofinal\pretendientes.c
+	<stdio.h>
+	<conio.h>
+	<time.h>
+	<stdlib.h>
+	<windows.h>
+	"pretendientes.h"
+
+1668466332 source:c:\users\lutaro\desktop\facu\2 cuatrimestre\programacion ii\trabajofinal\trabajofinal\login.c
+	<stdio.h>
+	<conio.h>
+	<time.h>
+	<stdlib.h>
+	<windows.h>
+	"login.h"
+
+1668545112 c:\users\lutaro\desktop\facu\2 cuatrimestre\programacion ii\trabajofinal\trabajofinal\trofeo.h
+
+1668545237 c:\users\lutaro\desktop\facu\2 cuatrimestre\programacion ii\trabajofinal\trabajofinal\menu.h
+
+1668545237 source:c:\users\lutaro\desktop\facu\2 cuatrimestre\programacion ii\trabajofinal\trabajofinal\menu.c
+	<stdio.h>
+	<conio.h>
+	<time.h>
+	<stdlib.h>
+	<windows.h>
+	"menu.h"
+	"colores.h"
+
+1668545237 c:\users\lutaro\desktop\facu\2 cuatrimestre\programacion ii\trabajofinal\trabajofinal\colores.h
+
+1668545493 source:c:\users\lutaro\desktop\facu\2 cuatrimestre\programacion ii\trabajofinal\trabajofinal\trofeo.c
+	<stdio.h>
+	<conio.h>
+	<time.h>
+	<stdlib.h>
+	<windows.h>
+	"trofeo.h"
+	"colores.h"
+
+1668614823 source:c:\users\pc\desktop\trabajofinal\arbolesfinal.c
+	<stdio.h>
+	<conio.h>
+	<time.h>
+	<stdlib.h>
+	<windows.h>
+	"arbolesFinal.h"
+
+1668614835 c:\users\pc\desktop\trabajofinal\arbolesfinal.h
+	"login.h"
+	"pretendientes.h"
+	"aventura.h"
+	"menu.h"
+
+1668466331 c:\users\pc\desktop\trabajofinal\login.h
+	"historial.h"
+
+1668614800 c:\users\pc\desktop\trabajofinal\historial.h
+	"personaje.h"
+	"trofeo.h"
+
+1668546874 c:\users\pc\desktop\trabajofinal\personaje.h
+
+1668545112 c:\users\pc\desktop\trabajofinal\trofeo.h
+
+1668547390 c:\users\pc\desktop\trabajofinal\pretendientes.h
+
+1668544603 c:\users\pc\desktop\trabajofinal\aventura.h
+
+1668545237 c:\users\pc\desktop\trabajofinal\menu.h
+
+1668460176 source:c:\users\pc\desktop\trabajofinal\aventura.c
+	<stdio.h>
+	<conio.h>
+	<time.h>
+	<stdlib.h>
+	<windows.h>
+	"aventura.h"
+
+1668614800 source:c:\users\pc\desktop\trabajofinal\historial.c
+	<stdio.h>
+	<conio.h>
+	<time.h>
+	<stdlib.h>
+	<windows.h>
+	"login.h"
+
+1668466332 source:c:\users\pc\desktop\trabajofinal\login.c
+	<stdio.h>
+	<conio.h>
+	<time.h>
+	<stdlib.h>
+	<windows.h>
+	"login.h"
+
+1668545237 source:c:\users\pc\desktop\trabajofinal\menu.c
+	<stdio.h>
+	<conio.h>
+	<time.h>
+	<stdlib.h>
+	<windows.h>
+	"menu.h"
+	"colores.h"
+
+1668545237 c:\users\pc\desktop\trabajofinal\colores.h
+
+1668547405 source:c:\users\pc\desktop\trabajofinal\pretendientes.c
+	<stdio.h>
+	<conio.h>
+	<time.h>
+	<stdlib.h>
+	<windows.h>
+	"pretendientes.h"
+	"colores.h"
+
+1668545493 source:c:\users\pc\desktop\trabajofinal\trofeo.c
+	<stdio.h>
+	<conio.h>
+	<time.h>
+	<stdlib.h>
+	<windows.h>
+	"trofeo.h"
+	"colores.h"
+
+1668559029 source:c:\users\pc\desktop\trabajofinal\main.c
+	<stdio.h>
+	<conio.h>
+	<time.h>
+	<stdlib.h>
+	<windows.h>
+	"arbolesFinal.h"
+
+1668559029 source:c:\users\pc\desktop\trabajofinal\personaje.c
+	<stdio.h>
+	<conio.h>
+	<time.h>
+	<stdlib.h>
+	<windows.h>
+	"personaje.h"
+
+1668640722 source:c:\users\valen\desktop\trabajofinal\arbolesfinal.c
+	<stdio.h>
+	<conio.h>
+	<time.h>
+	<stdlib.h>
+	<windows.h>
+	"arbolesFinal.h"
+
+1668634364 c:\users\valen\desktop\trabajofinal\arbolesfinal.h
+	"login.h"
+	"pretendientes.h"
+	"aventura.h"
+	"menu.h"
+	"colores.h"
+
+1668466331 c:\users\valen\desktop\trabajofinal\login.h
+	"historial.h"
+
+1668633375 c:\users\valen\desktop\trabajofinal\historial.h
+	"personaje.h"
+	"trofeo.h"
+
+1668636084 c:\users\valen\desktop\trabajofinal\personaje.h
+
+1668545112 c:\users\valen\desktop\trabajofinal\trofeo.h
+
+1668635779 c:\users\valen\desktop\trabajofinal\pretendientes.h
+
+1668639290 c:\users\valen\desktop\trabajofinal\aventura.h
+
+1668634364 c:\users\valen\desktop\trabajofinal\menu.h
+
+1668640587 source:c:\users\valen\desktop\trabajofinal\aventura.c
+	<stdio.h>
+	<conio.h>
+	<time.h>
+	<stdlib.h>
+	<windows.h>
+	"aventura.h"
+
+1668631540 source:c:\users\valen\desktop\trabajofinal\historial.c
+	<stdio.h>
+	<conio.h>
+	<time.h>
+	<stdlib.h>
+	<windows.h>
+	"login.h"
+
+1668466332 source:c:\users\valen\desktop\trabajofinal\login.c
+	<stdio.h>
+	<conio.h>
+	<time.h>
+	<stdlib.h>
+	<windows.h>
+	"login.h"
+
+1668643112 source:c:\users\valen\desktop\trabajofinal\menu.c
+	<stdio.h>
+	<conio.h>
+	<time.h>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+	"arbolesFinal.h"
+
+1668545237 c:\users\valen\desktop\trabajofinal\colores.h
+
+1668636084 source:c:\users\valen\desktop\trabajofinal\personaje.c
+	<stdio.h>
+	<conio.h>
+	<time.h>
+	<stdlib.h>
+	<windows.h>
+	"personaje.h"
+
+1668635810 source:c:\users\valen\desktop\trabajofinal\pretendientes.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	<string.h>
+	<windows.h>
+	"pretendientes.h"
+	"colores.h"
+
+1668545493 source:c:\users\valen\desktop\trabajofinal\trofeo.c
+	<stdio.h>
+	<conio.h>
+	<time.h>
+	<stdlib.h>
+	<windows.h>
+	"trofeo.h"
+	"colores.h"
+
+1668634584 source:c:\users\valen\desktop\trabajofinal\main.c
+	<stdio.h>
+	<conio.h>
+	<time.h>
+	<stdlib.h>
+	<windows.h>
+	"juego.h"
+
+1668639941 c:\users\valen\desktop\trabajofinal\juego.h
+	"arbolesFinal.h"
+
+1668643368 source:c:\users\valen\desktop\trabajofinal\juego.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<windows.h>
+	<pthread.h>
+	"juego.h"
+
+1668622035 source:c:\users\constanza\downloads\trabajofinal\trabajofinal\arbolesfinal.c
+	<stdio.h>
+	<conio.h>
+	<time.h>
+	<stdlib.h>
+	<windows.h>
+	"arbolesFinal.h"
+
+1668622048 c:\users\constanza\downloads\trabajofinal\trabajofinal\arbolesfinal.h
+	"login.h"
+	"pretendientes.h"
+	"aventura.h"
+	"menu.h"
+	"colores.h"
+
+1668466331 c:\users\constanza\downloads\trabajofinal\trabajofinal\login.h
+	"historial.h"
+
+1668624504 c:\users\constanza\downloads\trabajofinal\trabajofinal\historial.h
+	"personaje.h"
+	"trofeo.h"
+
+1668616870 c:\users\constanza\downloads\trabajofinal\trabajofinal\personaje.h
+
+1668545112 c:\users\constanza\downloads\trabajofinal\trabajofinal\trofeo.h
+
+1668622469 c:\users\constanza\downloads\trabajofinal\trabajofinal\pretendientes.h
+
+1668620851 c:\users\constanza\downloads\trabajofinal\trabajofinal\aventura.h
+
+1668629151 c:\users\constanza\downloads\trabajofinal\trabajofinal\menu.h
+
+1668545237 c:\users\constanza\downloads\trabajofinal\trabajofinal\colores.h
+
+1668460176 source:c:\users\constanza\downloads\trabajofinal\trabajofinal\aventura.c
+	<stdio.h>
+	<conio.h>
+	<time.h>
+	<stdlib.h>
+	<windows.h>
+	"aventura.h"
+
+1668624525 source:c:\users\constanza\downloads\trabajofinal\trabajofinal\historial.c
+	<stdio.h>
+	<conio.h>
+	<time.h>
+	<stdlib.h>
+	<windows.h>
+	"login.h"
+
+1668626934 source:c:\users\constanza\downloads\trabajofinal\trabajofinal\juego.c
+	"juego.h"
+
+1668625999 c:\users\constanza\downloads\trabajofinal\trabajofinal\juego.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<pthread.h>
+	"arbolesFinal.h"
+
+1668466332 source:c:\users\constanza\downloads\trabajofinal\trabajofinal\login.c
+	<stdio.h>
+	<conio.h>
+	<time.h>
+	<stdlib.h>
+	<windows.h>
+	"login.h"
+
+1668628256 source:c:\users\constanza\downloads\trabajofinal\trabajofinal\main.c
+	<stdio.h>
+	<conio.h>
+	<time.h>
+	<stdlib.h>
+	<windows.h>
+	"juego.h"
+	"menu.h"
+
+1668616870 source:c:\users\constanza\downloads\trabajofinal\trabajofinal\personaje.c
+	<stdio.h>
+	<conio.h>
+	<time.h>
+	<stdlib.h>
+	<windows.h>
+	"personaje.h"
+
+1668622506 source:c:\users\constanza\downloads\trabajofinal\trabajofinal\pretendientes.c
+	<stdio.h>
+	<conio.h>
+	<time.h>
+	<stdlib.h>
+	<windows.h>
+	"pretendientes.h"
+	"colores.h"
+
+1668545493 source:c:\users\constanza\downloads\trabajofinal\trabajofinal\trofeo.c
+	<stdio.h>
+	<conio.h>
+	<time.h>
+	<stdlib.h>
+	<windows.h>
+	"trofeo.h"
+	"colores.h"
+
+1668628003 source:c:\users\constanza\downloads\trabajofinal\trabajofinal\menu.c
+	<stdio.h>
+	<conio.h>
+	<time.h>
+	<stdlib.h>
+	<windows.h>
+	"menu.h"
+	"colores.h"
+
+1668622035 source:c:\users\sofia\desktop\trabajofinal\arbolesfinal.c
+	<stdio.h>
+	<conio.h>
+	<time.h>
+	<stdlib.h>
+	<windows.h>
+	"arbolesFinal.h"
+
+1668622048 c:\users\sofia\desktop\trabajofinal\arbolesfinal.h
+	"login.h"
+	"pretendientes.h"
+	"aventura.h"
+	"menu.h"
+	"colores.h"
+
+1668466331 c:\users\sofia\desktop\trabajofinal\login.h
+	"historial.h"
+
+1668631540 c:\users\sofia\desktop\trabajofinal\historial.h
+	"personaje.h"
+	"trofeo.h"
+
+1668616870 c:\users\sofia\desktop\trabajofinal\personaje.h
+
+1668545112 c:\users\sofia\desktop\trabajofinal\trofeo.h
+
+1668622469 c:\users\sofia\desktop\trabajofinal\pretendientes.h
+
+1668620851 c:\users\sofia\desktop\trabajofinal\aventura.h
+
+1668629151 c:\users\sofia\desktop\trabajofinal\menu.h
+
+1668545237 c:\users\sofia\desktop\trabajofinal\colores.h
+
+1668460176 source:c:\users\sofia\desktop\trabajofinal\aventura.c
+	<stdio.h>
+	<conio.h>
+	<time.h>
+	<stdlib.h>
+	<windows.h>
+	"aventura.h"
+
+1668626934 source:c:\users\sofia\desktop\trabajofinal\juego.c
+	"juego.h"
+
+1668625999 c:\users\sofia\desktop\trabajofinal\juego.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<pthread.h>
+	"arbolesFinal.h"
+
+1668466332 source:c:\users\sofia\desktop\trabajofinal\login.c
+	<stdio.h>
+	<conio.h>
+	<time.h>
+	<stdlib.h>
+	<windows.h>
+	"login.h"
+
+1668616870 source:c:\users\sofia\desktop\trabajofinal\personaje.c
+	<stdio.h>
+	<conio.h>
+	<time.h>
+	<stdlib.h>
+	<windows.h>
+	"personaje.h"
+
+1668622506 source:c:\users\sofia\desktop\trabajofinal\pretendientes.c
+	<stdio.h>
+	<conio.h>
+	<time.h>
+	<stdlib.h>
+	<windows.h>
+	"pretendientes.h"
+	"colores.h"
+
+1668545493 source:c:\users\sofia\desktop\trabajofinal\trofeo.c
+	<stdio.h>
+	<conio.h>
+	<time.h>
+	<stdlib.h>
+	<windows.h>
+	"trofeo.h"
+	"colores.h"
+
+1668631540 source:c:\users\sofia\desktop\trabajofinal\historial.c
+	<stdio.h>
+	<conio.h>
+	<time.h>
+	<stdlib.h>
+	<windows.h>
+	"login.h"
+
+1668630201 source:c:\users\sofia\desktop\trabajofinal\main.c
+	<stdio.h>
+	<conio.h>
+	<time.h>
+	<stdlib.h>
+	<windows.h>
+	"juego.h"
+	"menu.h"
+
+1668630625 source:c:\users\sofia\desktop\trabajofinal\menu.c
+	<stdio.h>
+	<conio.h>
+	<time.h>
+	<stdlib.h>
+	<windows.h>
+	"historial.h"
+	"menu.h"
+	"colores.h"
+
+1668638639 source:d:\downloads\trabajofina0.91l\trabajofinal\arbolesfinal.c
+	<stdio.h>
+	<conio.h>
+	<time.h>
+	<stdlib.h>
+	<windows.h>
+	"arbolesFinal.h"
+
+1668634364 d:\downloads\trabajofina0.91l\trabajofinal\arbolesfinal.h
+	"login.h"
+	"pretendientes.h"
+	"aventura.h"
+	"menu.h"
+	"colores.h"
+
+1668466331 d:\downloads\trabajofina0.91l\trabajofinal\login.h
+	"historial.h"
+
+1668633375 d:\downloads\trabajofina0.91l\trabajofinal\historial.h
+	"personaje.h"
+	"trofeo.h"
+
+1668636084 d:\downloads\trabajofina0.91l\trabajofinal\personaje.h
+
+1668545112 d:\downloads\trabajofina0.91l\trabajofinal\trofeo.h
+
+1668635779 d:\downloads\trabajofina0.91l\trabajofinal\pretendientes.h
+
+1668639290 d:\downloads\trabajofina0.91l\trabajofinal\aventura.h
+
+1668634364 d:\downloads\trabajofina0.91l\trabajofinal\menu.h
+
+1668545237 d:\downloads\trabajofina0.91l\trabajofinal\colores.h
+
+1668639013 source:d:\downloads\trabajofina0.91l\trabajofinal\aventura.c
+	<stdio.h>
+	<conio.h>
+	<time.h>
+	<stdlib.h>
+	<windows.h>
+	"aventura.h"
+
+1668631540 source:d:\downloads\trabajofina0.91l\trabajofinal\historial.c
+	<stdio.h>
+	<conio.h>
+	<time.h>
+	<stdlib.h>
+	<windows.h>
+	"login.h"
+
+1668638267 source:d:\downloads\trabajofina0.91l\trabajofinal\juego.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<windows.h>
+	<pthread.h>
+	"juego.h"
+
+1668636084 d:\downloads\trabajofina0.91l\trabajofinal\juego.h
+	"arbolesFinal.h"
+
+1668466332 source:d:\downloads\trabajofina0.91l\trabajofinal\login.c
+	<stdio.h>
+	<conio.h>
+	<time.h>
+	<stdlib.h>
+	<windows.h>
+	"login.h"
+
+1668634584 source:d:\downloads\trabajofina0.91l\trabajofinal\main.c
+	<stdio.h>
+	<conio.h>
+	<time.h>
+	<stdlib.h>
+	<windows.h>
+	"juego.h"
+
+1668636084 source:d:\downloads\trabajofina0.91l\trabajofinal\personaje.c
+	<stdio.h>
+	<conio.h>
+	<time.h>
+	<stdlib.h>
+	<windows.h>
+	"personaje.h"
+
+1668635810 source:d:\downloads\trabajofina0.91l\trabajofinal\pretendientes.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	<string.h>
+	<windows.h>
+	"pretendientes.h"
+	"colores.h"
+
+1668545493 source:d:\downloads\trabajofina0.91l\trabajofinal\trofeo.c
+	<stdio.h>
+	<conio.h>
+	<time.h>
+	<stdlib.h>
+	<windows.h>
+	"trofeo.h"
+	"colores.h"
+
+1668637909 source:d:\downloads\trabajofina0.91l\trabajofinal\menu.c
+	<stdio.h>
+	<conio.h>
+	<time.h>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+	"arbolesFinal.h"
+
+1668640722 source:d:\downloads\trabajofinalv_0.92\trabajofinal\arbolesfinal.c
+	<stdio.h>
+	<conio.h>
+	<time.h>
+	<stdlib.h>
+	<windows.h>
+	"arbolesFinal.h"
+
+1668647688 d:\downloads\trabajofinalv_0.92\trabajofinal\arbolesfinal.h
+	"login.h"
+	"pretendientes.h"
+	"aventura.h"
+	"menu.h"
+	"colores.h"
+
+1668466331 d:\downloads\trabajofinalv_0.92\trabajofinal\login.h
+	"historial.h"
+
+1668633375 d:\downloads\trabajofinalv_0.92\trabajofinal\historial.h
+	"personaje.h"
+	"trofeo.h"
+
+1668649633 d:\downloads\trabajofinalv_0.92\trabajofinal\personaje.h
+
+1668545112 d:\downloads\trabajofinalv_0.92\trabajofinal\trofeo.h
+
+1668635779 d:\downloads\trabajofinalv_0.92\trabajofinal\pretendientes.h
+
+1668639290 d:\downloads\trabajofinalv_0.92\trabajofinal\aventura.h
+
+1668649520 d:\downloads\trabajofinalv_0.92\trabajofinal\menu.h
+
+1668545237 d:\downloads\trabajofinalv_0.92\trabajofinal\colores.h
+
+1668640587 source:d:\downloads\trabajofinalv_0.92\trabajofinal\aventura.c
+	<stdio.h>
+	<conio.h>
+	<time.h>
+	<stdlib.h>
+	<windows.h>
+	"aventura.h"
+
+1668631540 source:d:\downloads\trabajofinalv_0.92\trabajofinal\historial.c
+	<stdio.h>
+	<conio.h>
+	<time.h>
+	<stdlib.h>
+	<windows.h>
+	"login.h"
+
+1668466332 source:d:\downloads\trabajofinalv_0.92\trabajofinal\login.c
+	<stdio.h>
+	<conio.h>
+	<time.h>
+	<stdlib.h>
+	<windows.h>
+	"login.h"
+
+1668650589 source:d:\downloads\trabajofinalv_0.92\trabajofinal\main.c
+	<stdio.h>
+	<conio.h>
+	<time.h>
+	<stdlib.h>
+	<windows.h>
+	"juego.h"
+
+1668649622 d:\downloads\trabajofinalv_0.92\trabajofinal\juego.h
+	"arbolesFinal.h"
+
+1668650704 source:d:\downloads\trabajofinalv_0.92\trabajofinal\menu.c
+	<stdio.h>
+	<conio.h>
+	<time.h>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+	"arbolesFinal.h"
+
+1668649611 source:d:\downloads\trabajofinalv_0.92\trabajofinal\personaje.c
+	<stdio.h>
+	<conio.h>
+	<time.h>
+	<stdlib.h>
+	<windows.h>
+	"personaje.h"
+
+1668635810 source:d:\downloads\trabajofinalv_0.92\trabajofinal\pretendientes.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	<string.h>
+	<windows.h>
+	"pretendientes.h"
+	"colores.h"
+
+1668545493 source:d:\downloads\trabajofinalv_0.92\trabajofinal\trofeo.c
+	<stdio.h>
+	<conio.h>
+	<time.h>
+	<stdlib.h>
+	<windows.h>
+	"trofeo.h"
+	"colores.h"
+
+1668649611 source:d:\downloads\trabajofinalv_0.92\trabajofinal\juego.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<windows.h>
+	<pthread.h>
+	"juego.h"
+
+1668640722 source:d:\downloads\trabajofinalv_0.92\trabajofinal respaldo\arbolesfinal.c
+	<stdio.h>
+	<conio.h>
+	<time.h>
+	<stdlib.h>
+	<windows.h>
+	"arbolesFinal.h"
+
+1668647688 d:\downloads\trabajofinalv_0.92\trabajofinal respaldo\arbolesfinal.h
+	"login.h"
+	"pretendientes.h"
+	"aventura.h"
+	"menu.h"
+	"colores.h"
+
+1668466331 d:\downloads\trabajofinalv_0.92\trabajofinal respaldo\login.h
+	"historial.h"
+
+1668656563 d:\downloads\trabajofinalv_0.92\trabajofinal respaldo\historial.h
+	"personaje.h"
+	"trofeo.h"
+
+1668649633 d:\downloads\trabajofinalv_0.92\trabajofinal respaldo\personaje.h
+
+1668545112 d:\downloads\trabajofinalv_0.92\trabajofinal respaldo\trofeo.h
+
+1668635779 d:\downloads\trabajofinalv_0.92\trabajofinal respaldo\pretendientes.h
+
+1668639290 d:\downloads\trabajofinalv_0.92\trabajofinal respaldo\aventura.h
+
+1668655097 d:\downloads\trabajofinalv_0.92\trabajofinal respaldo\menu.h
+
+1668545237 d:\downloads\trabajofinalv_0.92\trabajofinal respaldo\colores.h
+
+1668640587 source:d:\downloads\trabajofinalv_0.92\trabajofinal respaldo\aventura.c
+	<stdio.h>
+	<conio.h>
+	<time.h>
+	<stdlib.h>
+	<windows.h>
+	"aventura.h"
+
+1668660144 source:d:\downloads\trabajofinalv_0.92\trabajofinal respaldo\historial.c
+	<stdio.h>
+	<conio.h>
+	<time.h>
+	<stdlib.h>
+	<windows.h>
+	"login.h"
+
+1668649611 source:d:\downloads\trabajofinalv_0.92\trabajofinal respaldo\juego.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<windows.h>
+	<pthread.h>
+	"juego.h"
+
+1668649622 d:\downloads\trabajofinalv_0.92\trabajofinal respaldo\juego.h
+	"arbolesFinal.h"
+
+1668466332 source:d:\downloads\trabajofinalv_0.92\trabajofinal respaldo\login.c
+	<stdio.h>
+	<conio.h>
+	<time.h>
+	<stdlib.h>
+	<windows.h>
+	"login.h"
+
+1668649611 source:d:\downloads\trabajofinalv_0.92\trabajofinal respaldo\personaje.c
+	<stdio.h>
+	<conio.h>
+	<time.h>
+	<stdlib.h>
+	<windows.h>
+	"personaje.h"
+
+1668635810 source:d:\downloads\trabajofinalv_0.92\trabajofinal respaldo\pretendientes.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	<string.h>
+	<windows.h>
+	"pretendientes.h"
+	"colores.h"
+
+1668545493 source:d:\downloads\trabajofinalv_0.92\trabajofinal respaldo\trofeo.c
+	<stdio.h>
+	<conio.h>
+	<time.h>
+	<stdlib.h>
+	<windows.h>
+	"trofeo.h"
+	"colores.h"
+
+1668659119 source:d:\downloads\trabajofinalv_0.92\trabajofinal respaldo\main.c
+	<stdio.h>
+	<conio.h>
+	<time.h>
+	<stdlib.h>
+	<windows.h>
+	"juego.h"
+
+1668660350 source:d:\downloads\trabajofinalv_0.92\trabajofinal respaldo\menu.c
+	<stdio.h>
+	<conio.h>
+	<time.h>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+	"arbolesFinal.h"
+
+1668640722 source:c:\users\valen\desktop\trabajofinal respaldo\arbolesfinal.c
+	<stdio.h>
+	<conio.h>
+	<time.h>
+	<stdlib.h>
+	<windows.h>
+	"arbolesFinal.h"
+
+1668647688 c:\users\valen\desktop\trabajofinal respaldo\arbolesfinal.h
+	"login.h"
+	"pretendientes.h"
+	"aventura.h"
+	"menu.h"
+	"colores.h"
+
+1668466331 c:\users\valen\desktop\trabajofinal respaldo\login.h
+	"historial.h"
+
+1668662988 c:\users\valen\desktop\trabajofinal respaldo\historial.h
+	"personaje.h"
+	"trofeo.h"
+
+1668649633 c:\users\valen\desktop\trabajofinal respaldo\personaje.h
+
+1668662891 c:\users\valen\desktop\trabajofinal respaldo\trofeo.h
+
+1668635779 c:\users\valen\desktop\trabajofinal respaldo\pretendientes.h
+
+1668639290 c:\users\valen\desktop\trabajofinal respaldo\aventura.h
+
+1668655097 c:\users\valen\desktop\trabajofinal respaldo\menu.h
+
+1668545237 c:\users\valen\desktop\trabajofinal respaldo\colores.h
+
+1668640587 source:c:\users\valen\desktop\trabajofinal respaldo\aventura.c
+	<stdio.h>
+	<conio.h>
+	<time.h>
+	<stdlib.h>
+	<windows.h>
+	"aventura.h"
+
+1668649611 source:c:\users\valen\desktop\trabajofinal respaldo\juego.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<windows.h>
+	<pthread.h>
+	"juego.h"
+
+1668649622 c:\users\valen\desktop\trabajofinal respaldo\juego.h
+	"arbolesFinal.h"
+
+1668663116 source:c:\users\valen\desktop\trabajofinal respaldo\login.c
+	<stdio.h>
+	<conio.h>
+	<time.h>
+	<stdlib.h>
+	<windows.h>
+	"login.h"
+	"colores.h"
+
+1668659119 source:c:\users\valen\desktop\trabajofinal respaldo\main.c
+	<stdio.h>
+	<conio.h>
+	<time.h>
+	<stdlib.h>
+	<windows.h>
+	"juego.h"
+
+1668662194 source:c:\users\valen\desktop\trabajofinal respaldo\personaje.c
+	<stdio.h>
+	<conio.h>
+	<time.h>
+	<stdlib.h>
+	<windows.h>
+	"personaje.h"
+	"colores.h"
+
+1668635810 source:c:\users\valen\desktop\trabajofinal respaldo\pretendientes.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	<string.h>
+	<windows.h>
+	"pretendientes.h"
+	"colores.h"
+
+1668662060 source:c:\users\valen\desktop\trabajofinal respaldo\trofeo.c
+	<stdio.h>
+	<conio.h>
+	<time.h>
+	<stdlib.h>
+	<windows.h>
+	"trofeo.h"
+	"colores.h"
+
+1668663626 source:c:\users\valen\desktop\trabajofinal respaldo\historial.c
+	<stdio.h>
+	<conio.h>
+	<time.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	"login.h"
+	"colores.h"
+
+1668663519 source:c:\users\valen\desktop\trabajofinal respaldo\menu.c
+	<stdio.h>
+	<conio.h>
+	<time.h>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+	"arbolesFinal.h"
+
